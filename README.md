@@ -5,7 +5,7 @@
   - [公式の過去問置き場](https://www.i.u-tokyo.ac.jp/edu/entra/examarchive.shtml)
   - [一般教育科目(数学)の過去問](./the_university_of_tokyo/graduate_school_of_information_science_and_technology/math)
     - 2001-2025
-　- [数理情報学専攻の過去問](./the_university_of_tokyo/graduate_school_of_information_science_and_technology/mathematical_informatics)
+  - [数理情報学専攻の過去問](./the_university_of_tokyo/graduate_school_of_information_science_and_technology/mathematical_informatics)
   　- 2015-2025
 
 - 東京科学大学(東京工業大学)大学院情報理工学院
