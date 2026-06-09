@@ -1,5 +1,19 @@
 # open_inshi
 
+## よく使う
+- 東京大学大学院情報理工学系研究科
+  - [公式の過去問置き場](https://www.i.u-tokyo.ac.jp/edu/entra/examarchive.shtml)
+  - [一般教育科目(数学)の過去問](./the_university_of_tokyo/graduate_school_of_information_science_and_technology/math)
+    - 2001-2025
+　- [数理情報学専攻の過去問](./the_university_of_tokyo/graduate_school_of_information_science_and_technology/mathematical_informatics)
+  　- 2015-2025
+
+- 東京科学大学(東京工業大学)大学院情報理工学院
+  - [公式の過去問置き場](https://admissions.isct.ac.jp/ja/013/graduate/examination-questions)
+  - [数理･計算科学系の過去問](./tokyo_institute_of_technology/graduate_school_of_information_science_and_engineering/department_of_mathematical_and_computing_science)
+    - 2016-2025
+   
+
 ## 理念
 
 - 大学院入試の過去問が一部の内部生のみに共有されていることに対して、情報の非対称性を解消するために、過去問をオープンに公開することが目的です。
